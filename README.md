@@ -61,7 +61,7 @@ On-device machine learning model scans screen frames in real-time:
 - Device must be factory reset or have no accounts added yet
 
 ### Step 1: Install the APK
-Download the latest APK from [Releases](https://github.com/brookly255-lv/romanOS/releases) or build from source:
+Download the latest APK from [Releases](https://github.com/brookly255-lv/roman-sp/releases) or build from source:
 ```bash
 cd android
 JAVA_HOME=/path/to/jdk ./gradlew assembleDebug
